@@ -1,5 +1,6 @@
 import mynavi
 import common
+import time
 
 # main処理
 def main(loop_count=1, search_keyword="高収入"):
