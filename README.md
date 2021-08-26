@@ -12,6 +12,6 @@ pip install threading
   
 
 ## main.py
-main(loop_cunt=取得したいページ数, search_keyword=検索キーワード)  
+main(loop_count=取得したいページ数, search_keyword=検索キーワード)  
 ⇒マルチスレッドでページごとにデータを取得する。  
   
